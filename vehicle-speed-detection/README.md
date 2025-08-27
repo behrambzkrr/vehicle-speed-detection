@@ -18,7 +18,7 @@ It provides real-time visualization of detected vehicles, their trajectories, an
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vehicle-speed-detection.git
+git clone https://github.com/behrambzkrr/vehicle-speed-detection.git
 cd vehicle-speed-detection
 pip install -r requirements.txt
 
@@ -50,5 +50,6 @@ You can install them manually via:
 pip install ultralytics supervision opencv-python numpy
 
 📺 Example Output
+
 
 Detected vehicles with their calculated speeds (km/h) will be displayed directly on the video.
